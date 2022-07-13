@@ -2,6 +2,7 @@
 
 - 🎓 Cursando Engenharia da Computação no IFSP em Birigui.
 - 🌐 Estudando React Native.
+- 📍  Moro em Araçatuba - Sp.
 
 <div align="center">
   <a href="https://github.com/bielhss">
