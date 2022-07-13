@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Gabriel Henrique
 
 - 🎓 Cursando Engenharia da Computação no IFSP em Birigui.
-- 🌐 Estudando ReactJS, NextJS e NodeJS e React Native.
+- 🌐 Estudando React Native.
 
 <div align="center">
   <a href="https://github.com/bielhss">
